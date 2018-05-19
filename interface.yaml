@@ -1,0 +1,4 @@
+name: peer
+summary: Basic peer interface
+version: 1
+repo: https://github.com/mskalka/peer-interface
