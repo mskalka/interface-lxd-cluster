@@ -11,7 +11,7 @@ from charms.reactive.bus import (
 from charms.reactive import scopes
 
 
-class Peer(RelationBase):
+class LxdCluster(RelationBase):
     scope = scopes.SERVICE
 
     class states(StateList):

@@ -1,4 +1,4 @@
-name: peer
-summary: Basic peer interface
+name: lxd-cluster
+summary: Basic lxd-cluster interface
 version: 1
 repo: https://github.com/mskalka/peer-interface
